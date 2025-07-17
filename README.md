@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khan-suhail
-- 👀 I’m interested in cloud architect role
-- 🌱 I’m currently learning Azure architecture 
+- 👀 I’m interested in a cloud architect role
+- 🌱 I’m currently working as an Azure architect 
 - 💞️ I’m looking to collaborate on any cloud project
 - 📫 How to reach me - 8237100200  | suhail.khan2@live.in
 
