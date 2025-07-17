@@ -2,7 +2,7 @@
 - 👀 I’m interested in a cloud architect role
 - 🌱 I’m currently working as an Azure architect 
 - 💞️ I’m looking to collaborate on any cloud project
-- 📫 How to reach me - 8237100200  | suhail.khan2@live.in
+- 📫 How to reach me - 8237100200  | suhail.khan2@live.in LinkedIn - www.linkedin.com/in/suhail-khan-23129150
 
 <!---
 khan-suhail/khan-suhail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
